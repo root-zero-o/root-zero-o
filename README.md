@@ -23,11 +23,11 @@
 </p>
  
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyeonggg&layout=compact&theme=dark)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root-zero-o&layout=compact&theme=dark)<br>
  
  
  
  
-![yyeonggg's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyeonggg&show_icons=true&theme=dark)
+![root-zero-o's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-zero-o&show_icons=true&theme=dark)
 
 </div>
