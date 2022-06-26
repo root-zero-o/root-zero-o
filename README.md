@@ -1,16 +1,33 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**root-zero-o/root-zero-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+<br>
+ 
+*항해🌊🚢 7기 A반에서 공부중*
+ <br>
+ <br>
 
-Here are some ideas to get you started:
+### Contact Me
+ 
+ <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rootzero17@gmail.com)](mailto:rootzero17@gmail.com)
+ <a href="https://www.instagram.com/root_zero3o"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
+### Tech Skills
+
+ <br>
+ 
+ <p herf="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,styledcomponents,redux,figma,git,&perline=5"/>
+</p>
+ 
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyeonggg&layout=compact&theme=dark)<br>
+ 
+ 
+ 
+ 
+![yyeonggg's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyeonggg&show_icons=true&theme=dark)
+
+</div>
