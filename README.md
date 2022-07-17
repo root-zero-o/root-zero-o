@@ -19,7 +19,7 @@
  <br>
  
  <p herf="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,styledcomponents,tailwindcss,redux,figma,git,&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,styledcomponents,tailwindcss,redux,figma,git,graphql,&perline=6"/>
 </p>
  
  
