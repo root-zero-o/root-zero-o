@@ -2,13 +2,11 @@
 
  
 <br>
- 
-*즐겁게 개발 공부중🏃‍♀*
- <br>
- <br>
 
-### Contact Me
- 
+*일단 만들어! 그리고 부숴!🔨* <br>
+
+토르비욘식 개발 공부를 하고 있습니다.
+ <br>
  <br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rootzero17@gmail.com)](mailto:rootzero17@gmail.com)
@@ -16,7 +14,6 @@
 
 ### Tech Skills
 
- <br>
  
  <p herf="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,styledcomponents,tailwindcss,redux,figma,git,graphql,apollo&perline=6"/>
