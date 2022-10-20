@@ -3,10 +3,10 @@
  
 <br>
 
-*일단 만들어! 그리고 부숴!🔨* <br>
+Junior FE Developer
 
-토르비욘식 개발 공부를 하고 있습니다.
- <br>
+공부기록 벨로그로 이사했습니다🎅
+
  <br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rootzero17@gmail.com)](mailto:rootzero17@gmail.com)
@@ -27,6 +27,5 @@
  
 ![root-zero-o's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-zero-o&show_icons=true&theme=dark)
 
-<a href="https://opgc.me/#/users/root-zero-o" target="_blank"><img src="https://api.opgc.me/githubs/users/root-zero-o/tag/?theme=basic" /></a>
 
 </div>
