@@ -5,8 +5,6 @@
 
 Junior FE Developer
 
-공부기록 벨로그로 이사했습니다🎅
-
  <br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rootzero17@gmail.com)](mailto:rootzero17@gmail.com)
@@ -19,10 +17,7 @@ Junior FE Developer
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,firebase,styledcomponents,tailwindcss,redux,figma,git,graphql,apollo&perline=6"/>
 </p>
  
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root-zero-o&layout=compact&theme=dark)<br>
- 
- 
+<br/>
  
  
 ![root-zero-o's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-zero-o&show_icons=true&theme=dark)
