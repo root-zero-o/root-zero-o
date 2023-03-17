@@ -19,6 +19,8 @@ Junior FE Developer
  
 <br/>
  
+ <a href="https://opgc.me/#/users/root-zero-o" target="_blank"><img src="https://api.opgc.me/githubs/users/root-zero-o/tag/?theme=basic" /></a>
+ 
  
 ![root-zero-o's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-zero-o&show_icons=true&theme=dark)
 
