@@ -24,5 +24,7 @@ Junior FE Developer
  
 ![root-zero-o's GitHub stats](https://github-readme-stats.vercel.app/api?username=root-zero-o&show_icons=true&theme=dark)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rootzero17)](https://solved.ac/rootzero17/)
+
 
 </div>
