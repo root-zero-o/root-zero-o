@@ -3,7 +3,7 @@
  
 <br>
 
-Junior FE Developer
+FE Developer
 
  <br>
 
