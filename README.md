@@ -19,6 +19,6 @@ FE Developer
  <br>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/rootzero?theme=dark&font=Roboto%20Mono&ext=heatmap)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rootzero17)](https://solved.ac/rootzero17/)
 
 </div>
